@@ -7,7 +7,7 @@ brew tap helix-editor/helix
 brew install helix
 
 brew install exa
-echo "alias ls='exa --icons'"
+echo "alias ls='exa --icons'" >> ~/.zshrc
 
 brew install ripgrep
 

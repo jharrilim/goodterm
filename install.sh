@@ -11,6 +11,11 @@ echo "alias ls='exa --icons'" >> ~/.zshrc
 
 brew install ripgrep
 
+brew install bat
+brew install eth-p/software/bat-extras
+
+echo "alias man='batman'" >> ~/.zshrc
+
 brew install fzf
 $(brew --prefix)/opt/fzf/install
 

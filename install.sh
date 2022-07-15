@@ -28,3 +28,4 @@ echo 'eval "$(starship init zsh)"' >> ~/.zshrc
 
 echo 'Installation complete. Set your terminal to use Hack font.'
 echo 'If you are using iterm2, you may do so by navigating to Preferences -> Profiles -> Text and selecting the font there.'
+echo 'It is recommended to use kitty term: https://sw.kovidgoyal.net/kitty/binary/#binary-install'
